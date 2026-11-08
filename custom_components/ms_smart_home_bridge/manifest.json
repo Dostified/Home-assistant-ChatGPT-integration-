@@ -1,0 +1,10 @@
+{
+  "domain": "ms_smart_home_bridge",
+  "name": "MS Smart Home Bridge",
+  "version": "0.1.0",
+  "documentation": "https://github.com/YOUR_GITHUB/ms-home-assistant",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": [],
+  "config_flow": true
+}

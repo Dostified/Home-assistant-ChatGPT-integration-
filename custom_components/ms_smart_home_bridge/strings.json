@@ -1,0 +1,16 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "MS Smart Home Bridge",
+        "description": "Create a private bridge key. Enter the same key in your MCP server configuration.",
+        "data": {
+          "bridge_key": "Bridge API key"
+        }
+      }
+    },
+    "error": {
+      "key_too_short": "Use a key with at least 24 characters."
+    }
+  }
+}
